@@ -1,0 +1,6 @@
+c:\users\carson\documents\visual studio 2015\Projects\cryptonite\cryptonite\bin\Debug\cryptonite.exe.config
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\cryptonite\cryptonite\bin\Debug\cryptonite.exe
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\cryptonite\cryptonite\bin\Debug\cryptonite.pdb
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\cryptonite\cryptonite\obj\Debug\cryptonite.csprojResolveAssemblyReference.cache
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\cryptonite\cryptonite\obj\Debug\cryptonite.exe
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\cryptonite\cryptonite\obj\Debug\cryptonite.pdb
